@@ -1,6 +1,6 @@
 # Live Bookings Viewer
 
-![Demo Screenshot]((https://drive.google.com/file/d/1yo7SisRIlpmWO7uufAiSVbozA63NB8rR/view?usp=sharing))
+![Demo Screenshot](https://drive.google.com/uc?export=view&id=1yo7SisRIlpmWO7uufAiSVbozA63NB8rR)
 
 A real-time dashboard for venue administrators to monitor incoming bookings instantly.
 
