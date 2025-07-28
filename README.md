@@ -1,7 +1,4 @@
 # Live Bookings Viewer
-
-
-
 A real-time dashboard for venue administrators to monitor incoming bookings instantly.
 
 ## Features
