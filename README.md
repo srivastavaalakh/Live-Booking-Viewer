@@ -1,10 +1,8 @@
 # Live Bookings Viewer
 
-
-
 A real-time dashboard for venue administrators to monitor incoming bookings instantly.
 
-## Features
+## 🚀 Features
 
 - **Real-time updates**: New bookings appear instantly without page refresh
 - **Interactive UI**: Clean, modern interface with visual animations
@@ -13,20 +11,21 @@ A real-time dashboard for venue administrators to monitor incoming bookings inst
 - **Responsive design**: Works on desktop and mobile devices
 - **Visual analytics**: Includes venue popularity charts
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-**Frontend**:
+### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
 - Socket.IO client for real-time communication
 
-**Backend**:
+### Backend
 - Node.js with Express
 - Socket.IO server
 - In-memory data store
 
-## Installation
+## 📦 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/srivastavaalakh/Live-Booking-Viewer.git
    cd Live-Booking-Viewer
+
